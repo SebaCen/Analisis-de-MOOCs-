@@ -20,6 +20,7 @@ plataforma sea lo mas exitosa posible.
 - [EDA](#EDA)
 - [Interrogantes](#Interrogantes)
 - [KPI](#KPI)
+- [Dashboard](#Dashboard)
   
 ## <a>EDA</a>
 Una vez que se asegura la calidad de los datos de entrada se pasa al analisis de los mismos (EDA), este procedimiento se realiza por separado
@@ -67,6 +68,15 @@ El objetivo es llegar a los 250 millones de ingresos el año venidero.
 
 _Tasa de inscripcion en cursos premium -calculado en base a la relacion de inscriptos en cursos clasificados como de alto nivel de 
 precio en relacion con el total de los cursos * 100-. El objetivo es mejorar la relacion en un 25 % el año que viene
+
+## <a href="https://github.com/SebaCen/Analisis-de-MOOCs-/blob/main/Moocs.pbix">Dashboard</a> 
+Se realiza en PowerBI un dashboard para cada plataforma con los principales graficos que se destacan por tener mayor
+implicancia para el analisis. 
+
+Tambien se muestra en los mismos los KPIs propuestos anteriormente.
+
+Luego en el mismo archivo se responden a los interrogantes planteados previamente y se realizan propuestas para aplicar en 
+el corto y mediano plazo para la mejor inserción de la nueva plataforma.
 
 
 ## Agradecimiento
