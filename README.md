@@ -53,7 +53,7 @@ _La duración del curso incide en la cantidad de inscriptos al mismo?
 ## <a>KPI</a> 
 
 Con el proposito de seguir mas de cerca la evolucion de los modelos de negocio de las plataformas, se proponen los siguientes
-KPIs en base a la informacin recolectada de los dataset. 
+KPIs en base a la información recolectada de los dataset. 
 
 _Tasa de conversión de inscriptos gratuitos a inscriptos pagados -calculado como el número de inscriptos en cursos pagados / 
 número de inscriptos en cursos gratuitos * 100-. El objetivo a futuro propuesto por la empresa es evaluar si en la tendencia se 
