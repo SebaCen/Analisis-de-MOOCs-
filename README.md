@@ -1,6 +1,6 @@
 # Analisis de MOOCs
 
-<img width="70%" src="https://github.com/SebaCen/All-about-movies/blob/main/src/mooc.jpg"> 
+<img width="70%" src="https://github.com/SebaCen/Analisis-de-MOOCs-/blob/main/src/mooc.jpg"> 
 
 
 A partir de 2 datasets de plataforma de MOOCs como Udemy y Edx se hace un analisis para poder proyectar la inserción de una nueva plataforma 
